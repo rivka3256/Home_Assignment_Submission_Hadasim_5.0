@@ -1,0 +1,23 @@
+🚫 Row 22: Value is 'not_a_number' at 6/30/25 0:37
+⚪️ Row 23: Empty value (no value at all) at 6/25/25 23:12
+❌ Row 26: Value is 'NaN' at 6/15/25 3:15
+🚫 Row 35: Value is 'not_a_number' at 6/2/25 5:56
+❌ Row 36: Value is 'NaN' at 6/10/25 20:49
+❌ Row 43: Value is 'NaN' at 6/12/25 8:00
+❌ Row 61: Value is 'NaN' at 6/22/25 23:00
+🚫 Row 70: Value is 'not_a_number' at 6/1/25 9:00
+🚫 Row 72: Value is 'not_a_number' at 6/27/25 18:18
+⚠️ Row 93: Duplicate timestamp found: 06/07/25 05:18
+🧾 Row 94: Invalid timestamp format: '60/15/25 7:38' (expected MM/DD/YY HH:MM)
+⚪️ Row 98: Empty value (no value at all) at 6/17/25 6:49
+
+📊 Summary:
+📄 Total lines: 100
+✅ Valid lines: 88
+♻️ Duplicate count: 1
+🧾 Format error count (timestamps): 1
+
+🔍 Value errors:
+🚫 not_a_number: 4
+⚪️ empty: 2
+❌ nan: 4
